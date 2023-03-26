@@ -65,10 +65,12 @@ p {
 }
 /* Testimonials */
 #testimonials {
-    padding: 7% 15%;
     text-align: center;
     background-color: #ef8172;
     color: #fff;
+}
+.carousel-item {
+    padding: 7% 15%;
 }
 h2 {
     font-family: montserrat;
@@ -81,7 +83,7 @@ h2 {
     border-radius: 100%;
     margin: 20px;
 }
-
+/* Press */
 #press {
     background-color: #ef8172;
     text-align: center;
@@ -90,4 +92,15 @@ h2 {
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+}
+/* Pricing */
+
+/* CTA */
+#cta {
+    background-color: #ff4c68;
+}
+h3 {
+    font-family: montserrat;
+    font-weight: 900;
+    color: white;
 }
