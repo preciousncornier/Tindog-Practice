@@ -94,13 +94,32 @@ h2 {
     margin: 20px 20px 50px;
 }
 /* Pricing */
+#pricing {
+    padding: 5% 5%;
+    text-align: center;
+}
 
 /* CTA */
 #cta {
     background-color: #ff4c68;
+    padding: 5%;
+    text-align: center;
 }
 h3 {
     font-family: montserrat;
     font-weight: 900;
     color: white;
+    margin-bottom: 3%;
+    font-size: 2.5rem;
+    text-align: center;
+}
+#footer {
+    text-align: center;
+    margin: 3% 0%;
+}
+.footicon {
+    padding: 1% 0.5%;
+}
+.cr {
+    font-size: 20px;
 }
