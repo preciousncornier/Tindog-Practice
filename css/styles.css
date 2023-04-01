@@ -121,10 +121,10 @@ h2 {
 }
 #footer {
     text-align: center;
-    margin: 3% 0%;
+    padding: 7% 15%;
 }
 .footicon {
-    padding: 1% 0.5%;
+    margin: 20px 10px;
 }
 .cr {
     font-size: 20px;
